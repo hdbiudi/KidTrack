@@ -1,0 +1,13 @@
+python-telegram-bot==13.7.0
+pillow==9.5.0
+Dlib==19.24.1
+h5py==3.8.0
+keras==2.12.0
+object-detection==0.1
+opencv-python==4.7.0.72
+tensorflow==2.12.0
+numpy==1.23.5
+imutils==0.54
+proto buf==3.20.3
+proto plus==1.22.2
+prompt-toolkit==3.0.36
